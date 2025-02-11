@@ -55,8 +55,3 @@ Contribuições são bem-vindas! Para contribuir:
 - Commit suas alterações: `git commit -m 'Adicionando nova funcionalidade'`
 - Faça um push: `git push origin minha-feature`
 - Abra um Pull Request
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
