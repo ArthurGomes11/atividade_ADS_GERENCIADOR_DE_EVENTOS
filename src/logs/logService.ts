@@ -1,5 +1,5 @@
 import db from "../data/database";
-import { Log } from "../models/models";
+
 const dataAtual = new Date();
 export const dataString = dataAtual.toISOString().split("T")[0];
 
